@@ -29,7 +29,7 @@ body{
 
 .banner{
     background-color: yellowgreen;
-    background-image: url(/imagenes/banner.png);
+    background-image: url(/imagenes/portada.jpg);
     background-size: cover;
     width: 100vw;
     height: 50vh;
